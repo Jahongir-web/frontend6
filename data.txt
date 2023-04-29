@@ -1,0 +1,27 @@
+1. Asosiy repo (loyiha) ochish.
+
+2. Boshlang'ich kod va fayllarni tayyorlab commit qiladi.
+
+3. Asosiy repoga boshlang'ich holat va kodlarini push qiladi.
+
+4. Jamoa azolari o'zining profiliga AR ni fork qilishadi.
+
+5. Jamoa azolari o'z profillaridagi reponi compyuterlariga clone qilishadi.
+
+6. Jamoa azolari o'z bajarishi kerak bo'lgan vazifa uchun yangi branch ochishadi va unda vazifani oxiriga yetkazishadi. 
+
+7. Jamoa azolari branchlaridagi ishni o'z reposiga push qilishadi.
+
+8. Jamoa azolari o'zlarining reposiga borgan branchdan AR ga pull request (PR) yuboradi.
+
+9. AR egasi PR ni qabul qiladi.
+
+10. PR da ishlatilgan branch o'chirib tashlanadi.
+
+11. Jamoa azolari kompyuterlarida mainga o'tishadi.
+
+12. Jamoa azolari kompyuteridagi branchni o'chirib tashlashadi.
+
+13. Jamoa azolari AR dagi mainni o'ziga ko'chirib olishadi.
+
+14. Keyin ishlash uchun 6-qadamdan keyingi ishlar takrorlanadi.
